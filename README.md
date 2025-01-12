@@ -4,3 +4,16 @@ Este proyecto es un Portal de Ciencias diseñado para proporcionar información 
  
 ## Instalación y Puesta en Marcha
  
+Siga estos pasos para instalar y poner en marcha el proyecto:
+
+### Prerrequisitos
+Node.js (v14 o superior)
+npm (v6 o superior)
+
+### Pasos de Instalación
+Clonar el Repositorio
+
+```
+git clone https://github.com/torrentedev/floating-tool.git
+cd floating-tool
+```
