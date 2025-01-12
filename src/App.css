@@ -1,0 +1,23 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+.content {
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.App-header {
+  color: inherit; /* Asegúrate de que los elementos hereden el color */
+}
+
+.App-header h1 {
+  margin-bottom: 20px;
+}
+
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
+
