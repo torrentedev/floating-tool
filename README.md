@@ -58,3 +58,18 @@ src/
   App.css
 ```
 
+### Ejecutar la Aplicación
+
+```
+npm start
+```
+
+Esto iniciará el servidor de desarrollo y la aplicación estará disponible en http://localhost:3000.
+
+### Funcionalidades Principales
+
+Portal de Ciencias: Proporciona información sobre diversos temas de ciencias naturales y sociales.
+Transcripción Visual: Utiliza imágenes y GIFs para representar palabras y frases, mejorando la accesibilidad.
+Configuración Personalizable: Permite cambiar el tamaño de fuente, tipo de fuente, color de fuente y color de fondo.
+Soporte Multilingüe: Cambia el idioma y la voz utilizada para la síntesis de texto a voz.
+
