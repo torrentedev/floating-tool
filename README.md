@@ -29,3 +29,32 @@ npm install
 Asegúrate de tener la siguiente estructura de carpetas en tu proyecto:
 
 public/ phrases/ evolucion.gif ... words/ evolucion.gif ... letters/ a.jpg b.jpg c.jpg ... numbers/ 0.jpg 1.jpg 2.jpg ... src/ components/ FloatingToolbar.js FloatingToolbar.css TranscriptionWindow.js CustomNavbar.js App.js App.css
+
+````
+public/
+  phrases/
+    evolucion.gif
+    ...
+  words/
+    evolucion.gif
+    ...
+  letters/
+    a.jpg
+    b.jpg
+    c.jpg
+    ...
+  numbers/
+    0.jpg
+    1.jpg
+    2.jpg
+    ...
+src/
+  components/
+    FloatingToolbar.js
+    FloatingToolbar.css
+    TranscriptionWindow.js
+    CustomNavbar.js
+  App.js
+  App.css
+```
+
